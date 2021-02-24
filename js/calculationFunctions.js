@@ -1,11 +1,3 @@
-
-console.log('the sum of 1 and 2 equals');
-let number1 =10;
-let number2 =20;
-
-
-
-
 function custombuttonaction(mathematicalfunction){
 
     //select the inputelement with id number1
